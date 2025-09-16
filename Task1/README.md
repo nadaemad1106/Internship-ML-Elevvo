@@ -1,4 +1,4 @@
-# 🎓 Student Performance Prediction  
+# 🎓 Student Score Prediction  
 
 This task is part of my **ML Internship (Elevvo)**.  
 I built a regression model to predict **student exam scores** using study-related factors.  
