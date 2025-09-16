@@ -11,4 +11,10 @@ I built a regression model to predict **student exam scores** using study-relate
 ### Results:
 - Linear Regression: ~76% accuracy (R²).  
 - Polynomial Regression: ~74% accuracy.  
-- Feature experimentation showed how removing some factors changes performance.  
+- Feature experimentation showed how removing some factors changes performance.
+- 
+### Dataset
+This Task uses the **Student Performance Factors** dataset, which was downloaded from Kaggle.
+
+You can access the dataset directly from its source page:
+[Link to dataset on Kaggle](https://www.kaggle.com/datasets/lainguyn123/student-performance-factors)
